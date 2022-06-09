@@ -3,7 +3,7 @@
 To develop a code to solve a sudoku puzzle using contraint propagation
 
 ## Theory:
-Sudoku consists of a 9x9 grid, and the objective is to fill the grid with digits in such a way that each row, each column, and each of the 9 principal 3x3 subsquares contains all of the digits from 1 to 9.
+The objective of Sudoku is to fill a 9x9 grid made of squares so that each row, each column, and each full 9x9 square use the numbers 1-9. While solving the sudoku puzzle you can only use each number one time in the square, column, and row.
 
 ## Design Steps:
 ### Step 1:
